@@ -1,2 +1,3 @@
 # myappium
-My Appium practise
+My Appium practise codes
+Gmail, WhatsApp, simple calc and EMI calc codes
